@@ -1,0 +1,2 @@
+cd c:/Selenium/ServerExecutable
+start java -Dwebdriver.chrome.driver=C:\Selenium\chromedriver_win32\chromedriver.exe -Xmx512m -jar selenium-server-standalone.jar -role wd -hub http://localhost:4445/grid/register -maxSession 5 -browser "platform=WINDOWS,browserName=chrome,maxInstances=5"
