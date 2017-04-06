@@ -14,4 +14,5 @@
 
 ## How to run the tests:
 1. Tests are using NUnit are the testing framework.
-2. Run the tests as you would any other Nunit tests.
+2. Please find the App.config in Valtech.Website.UI.Tests project and set the value of "TestSettingsFile" key to the absolute path of "ValtechSettings.config" file which is in the same directory as App.config. For some reason, on my machine, the relative paths in App.config are not being honoured. So, just to be on the safe side, please set the value on your machine as well as I know that this will definitely work.
+3. Run the tests as you would any other Nunit tests.
