@@ -2,10 +2,10 @@
 
 ## How to launch Selenium hub and node:
 
-1.  On Windows machines:
-  *  Copy the whole Selenium folder as it is into C: so that the path is C:/Selenium
-  *  Double click "Launch Selenium 3 Hub.bat" to start the hub
-  *  Double click "Launch Selenium 3 Custom Node v1.bat" to start the node
+1. On Windows machines:
+    *  Copy the whole Selenium folder as it is into C: so that the path is C:/Selenium
+    *  Double click "Launch Selenium 3 Hub.bat" to start the hub
+    *  Double click "Launch Selenium 3 Custom Node v1.bat" to start the node
 
 2. On Macs or Linux machines:
     * You can use the selenium-server-standalone.jar
